@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './Header.css'
 
 class Header extends Component {
 
@@ -7,7 +8,7 @@ class Header extends Component {
             <header>
                 <h1>Noteful</h1>
             </header>
-            
+
         )
     }
 
